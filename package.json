@@ -23,6 +23,7 @@
     "animate.css": "^4.1.1",
     "aos": "^2.3.4",
     "jquery": "^3.6.0",
-    "material-design-icons": "^3.0.1"
+    "material-design-icons": "^3.0.1",
+    "wowjs": "^1.1.3"
   }
 }
